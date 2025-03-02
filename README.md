@@ -15,33 +15,6 @@
 ---
 
 
-## **How to Use This Project**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/KabilBoufares/clinique-santeplusV1.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Compile TypeScript to JavaScript:
-   ```bash
-   npm run build
-   ```
-4. Open `index.html` in your browser to view the website.
-
----
-
-## **Contributing**
-Contributions are welcome! If you'd like to improve this project:
-1. Fork the repository.
-2. Create a branch for your feature (`git checkout -b new-feature`).
-3. Commit your changes (`git commit -m 'Add a new feature'`).
-4. Push to the branch (`git push origin new-feature`).
-5. Open a Pull Request.
-
----
-
 ## **Authors**
 - [KabilBoufares](https://github.com/KabilBoufares)
 
