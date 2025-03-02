@@ -75,6 +75,4 @@ This version uses TypeScript to:
   npm run serve
   ```
 
----
 
-With this `README.md`, your project will be well-documented and ready to be shared on GitHub. 🚀
